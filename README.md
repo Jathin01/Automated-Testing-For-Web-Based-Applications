@@ -1,4 +1,5 @@
 **Automated Testing for Web-Based Applications**
+
 This project combines Selenium, Java, TestNG, and Maven to automate the testing of the Best Buy online application. The Page Object Model (POM) architecture is used to ensure modular and maintainable code, streamlining the automation process.
 
 **Features**
