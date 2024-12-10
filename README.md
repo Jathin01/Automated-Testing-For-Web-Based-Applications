@@ -19,7 +19,7 @@ Browser Drivers: Ensure the required browser drivers (e.g., chromedriver, geckod
 **Setup and Installation**
 1. Clone the Repository
 To get started, clone the repository to your local system:
-git clone https://github.com/Kalyanreddy292/Automated-Testing-for-web-based-applications-BestBuy.git
+https://github.com/Jathin01/Automated-Testing-For-Web-Based-Applications.git
 
 **2. Navigate to the Project Directory**
 Change the directory to the project folder:
